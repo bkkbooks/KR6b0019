@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6b0019/T/v1
+canonical_location: https://kanripo.org/bkk/KR6b0019/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太子慕魄經
+  identifiers:
+    krp: KR6b0019
+    cbeta: T03n0167
+    cbeta_old_id: T03n0167
+    authorityid: CA0003208
+    json_key: T0167
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T03/T03n0167.xml
+    old_id: T03n0167
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6b0019_000-T.yaml, hash: 'sha256:3232f8de4aa2e37fb16914d615678ac45c891c68d3b8c93d488da5664879ef78'}
+  - {seq: 1, filename: KR6b0019_001-T.yaml, hash: 'sha256:3aad0584cf8d4cc9a885f1d1df053a5d3312364667aff69fb3bd3e515ebdfcd7'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6b0019_000-T.markers.yaml, hash: 'sha256:d341f250ba194edfcd623e9b06c72ecc0a126481b0fd868978107be685a2b79d'}
+  - {seq: 1, role: markers, filename: assets/KR6b0019_001-T.markers.yaml, hash: 'sha256:7ab24e890531d6d20c655f966607859e2a2aa4f8256aca4cf75c548fcc35250f'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6b0019_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2303
+  label: 佛說太子慕魄經
+  type: juan
+  level: 1
+hash: sha256:6256818d194c9db340c7152f16cb9cd29131e47ecc01306b43575392fcda250a
