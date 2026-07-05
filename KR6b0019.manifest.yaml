@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6b0019_000.yaml, hash: 'sha256:3232f8de4aa2e37fb16914d615678ac45c891c68d3b8c93d488da5664879ef78'}
-  - {seq: 1, filename: KR6b0019_001.yaml, hash: 'sha256:ae2ca75ec73974e9641eee2ab31a8d4e07a71f4418b9ac4faa7c5aceb8445e5e'}
+  - {seq: 1, filename: KR6b0019_001.yaml, hash: 'sha256:3aad0584cf8d4cc9a885f1d1df053a5d3312364667aff69fb3bd3e515ebdfcd7'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6b0019_001.markers.yaml, hash: 'sha256:6f9303841179b5863dd2a6d17f9ee8e4ae427102f538fb34fef0a5293df8b1d5'}
+  - {seq: 0, role: markers, filename: assets/KR6b0019_000.markers.yaml, hash: 'sha256:734d1237e291c0a24f07a25830a6068b398826a9ad62af76de12f0f546ebe75a'}
+  - {seq: 1, role: markers, filename: assets/KR6b0019_001.markers.yaml, hash: 'sha256:2c52ab91ecbdf9b72395d5a817d7a36d8e9619bd769d81eb8a93fe4aa3e85532'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 佛說太子慕魄經
   type: juan
   level: 1
-hash: sha256:6ab07ea5c138db027a01498427eff3e4e063654f129abf05424eeb4e916d1505
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:95c348eba2272fd33c4c73948b1cc9167b63ac12c0f384fd9a28c07dc14d330c
