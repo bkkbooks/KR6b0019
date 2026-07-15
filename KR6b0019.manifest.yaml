@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6b0019/v1
 canonical_location: https://kanripo.org/bkk/KR6b0019/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 太子慕魄經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6b0019_000.yaml, hash: 'sha256:3232f8de4aa2e37fb16914d615678ac45c891c68d3b8c93d488da5664879ef78'}
-  - {seq: 1, filename: KR6b0019_001.yaml, hash: 'sha256:3aad0584cf8d4cc9a885f1d1df053a5d3312364667aff69fb3bd3e515ebdfcd7'}
+  - {seq: 1, filename: KR6b0019_001.yaml, hash: 'sha256:c4b191013caa1236730074b2af831a42dbe8912eea5ba418d593e74e027ea6a8'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6b0019_000.markers.yaml, hash: 'sha256:734d1237e291c0a24f07a25830a6068b398826a9ad62af76de12f0f546ebe75a'}
-  - {seq: 1, role: markers, filename: assets/KR6b0019_001.markers.yaml, hash: 'sha256:2c52ab91ecbdf9b72395d5a817d7a36d8e9619bd769d81eb8a93fe4aa3e85532'}
+  - {seq: 1, role: markers, filename: assets/KR6b0019_001.markers.yaml, hash: 'sha256:bcb04381b62f5ccb8e390fac5b2c870d3f26c360e5760ee05f4c595faa41bbf1'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
   label: 佛說太子慕魄經
   type: juan
   level: 1
-hash: sha256:95c348eba2272fd33c4c73948b1cc9167b63ac12c0f384fd9a28c07dc14d330c
+hash: sha256:06217d196efc1ae74fa4b90f608199f27abde652c431cb3caccdfecfff433834
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
