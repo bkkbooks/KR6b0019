@@ -33,7 +33,7 @@ assets:
   - {seq: 0, filename: KR6b0019_000.yaml, hash: 'sha256:3232f8de4aa2e37fb16914d615678ac45c891c68d3b8c93d488da5664879ef78'}
   - {seq: 1, filename: KR6b0019_001.yaml, hash: 'sha256:c4b191013caa1236730074b2af831a42dbe8912eea5ba418d593e74e027ea6a8'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6b0019_000.markers.yaml, hash: 'sha256:734d1237e291c0a24f07a25830a6068b398826a9ad62af76de12f0f546ebe75a'}
+  - {seq: 0, role: markers, filename: assets/KR6b0019_000.markers.yaml, hash: 'sha256:69188c49c5295d34606c6057c89263599f5392d02b33eaf2ea4c51c997882e60'}
   - {seq: 1, role: markers, filename: assets/KR6b0019_001.markers.yaml, hash: 'sha256:bcb04381b62f5ccb8e390fac5b2c870d3f26c360e5760ee05f4c595faa41bbf1'}
 table_of_contents:
 - ref:
@@ -46,7 +46,7 @@ table_of_contents:
   label: 佛說太子慕魄經
   type: juan
   level: 1
-hash: sha256:06217d196efc1ae74fa4b90f608199f27abde652c431cb3caccdfecfff433834
+hash: sha256:d006007a20b0ecefbe192a76a3755a74aaee740ccaf71b2d610797451af38961
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
